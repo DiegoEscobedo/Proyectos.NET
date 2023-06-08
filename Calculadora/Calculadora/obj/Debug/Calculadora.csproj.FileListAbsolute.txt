@@ -1,0 +1,16 @@
+D:\Programacion .NET\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Programacion .NET\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Programacion .NET\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\MainWindow.g.cs
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\App.g.cs
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.cache
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.lref
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\MainWindow.baml
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.g.resources
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Programacion .NET\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

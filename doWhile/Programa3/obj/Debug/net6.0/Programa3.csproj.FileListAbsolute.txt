@@ -1,0 +1,15 @@
+D:\Programacion .NET\doWhile\Programa3\bin\Debug\net6.0\Programa3.exe
+D:\Programacion .NET\doWhile\Programa3\bin\Debug\net6.0\Programa3.deps.json
+D:\Programacion .NET\doWhile\Programa3\bin\Debug\net6.0\Programa3.runtimeconfig.json
+D:\Programacion .NET\doWhile\Programa3\bin\Debug\net6.0\Programa3.dll
+D:\Programacion .NET\doWhile\Programa3\bin\Debug\net6.0\Programa3.pdb
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.csproj.AssemblyReference.cache
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.AssemblyInfoInputs.cache
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.AssemblyInfo.cs
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.csproj.CoreCompileInputs.cache
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.dll
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\refint\Programa3.dll
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.pdb
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\Programa3.genruntimeconfig.cache
+D:\Programacion .NET\doWhile\Programa3\obj\Debug\net6.0\ref\Programa3.dll

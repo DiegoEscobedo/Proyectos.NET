@@ -1,0 +1,16 @@
+D:\Programacion .NET\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+D:\Programacion .NET\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+D:\Programacion .NET\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\App.g.cs
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+D:\Programacion .NET\WpfApp\WpfApp\obj\Debug\WpfApp.pdb

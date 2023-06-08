@@ -1,0 +1,8 @@
+D:\Programacion .NET\doWhile\doWhile\bin\Debug\doWhile.exe.config
+D:\Programacion .NET\doWhile\doWhile\bin\Debug\doWhile.exe
+D:\Programacion .NET\doWhile\doWhile\bin\Debug\doWhile.pdb
+D:\Programacion .NET\doWhile\doWhile\obj\Debug\doWhile.csproj.AssemblyReference.cache
+D:\Programacion .NET\doWhile\doWhile\obj\Debug\doWhile.csproj.SuggestedBindingRedirects.cache
+D:\Programacion .NET\doWhile\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+D:\Programacion .NET\doWhile\doWhile\obj\Debug\doWhile.exe
+D:\Programacion .NET\doWhile\doWhile\obj\Debug\doWhile.pdb
